@@ -1,0 +1,86 @@
+
+/* 
+    Created on : 26/07/2014, 08:45:05 AM
+    Author     : Hernando Penha <hernando.pena at elheraldo.co>
+*/
+
+.center{
+    text-align:center;
+}
+
+.left{
+    text-align:left;
+}
+
+.capital{
+    text-transform: capitalize;
+}
+
+.repo_header{    
+    padding: 4px 3px 4px 7px;
+}
+
+.reporte{
+    background-color: white;
+    margin: 0 10px 0 10px;
+    text-align: center;
+    color: #8c8c8c;    
+
+}
+
+.repo_content{
+    margin-left: 5px;
+    padding: 5px 5px 0 5px;
+    text-align: left;
+}
+
+.pauta{
+    max-height: 40px;
+    width: 100%;
+    display: block;
+    margin: 0 auto;    
+}
+
+ico_user{
+    border-bottom-color: #8c8c8c;
+    border-width: thin;
+    width: 32px;
+    height: 32px;
+}
+
+.nombre_usuario{
+    color: #000;
+    font-size: h4;
+    font-weight: bold;
+    display: inline-block;
+}
+
+.fch_publicacion{
+    font-size: smaller;
+}
+
+
+img, object{
+    max-height:97%;
+    max-width:97%;
+}
+
+.boton{
+    display: inline-block;
+    border: #000000;    
+
+}
+
+table, th, td {
+    margin-top: 10px;
+    border: 1px solid grey;
+    border-collapse: collapse;
+    
+}
+
+.ingresos{
+    background-color: #FFFFFF;
+}
+
+
+

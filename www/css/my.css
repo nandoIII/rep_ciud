@@ -82,5 +82,9 @@ table, th, td {
     background-color: #FFFFFF;
 }
 
+a:link {
+    text-decoration: none;
+}
+
 
 
